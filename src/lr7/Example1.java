@@ -15,7 +15,7 @@ public class Example1 {
         String fileName = scanner.nextLine();
 
         // Создание папки
-        File folder = new File("src/lr7/example1/" + folderName);
+        File folder = new File("C:/java_ex/java core 2024/src/lr7/" + folderName);
         if (!folder.exists()) {
             if (folder.mkdir()) {
                 System.out.println("Папка создана: " +
