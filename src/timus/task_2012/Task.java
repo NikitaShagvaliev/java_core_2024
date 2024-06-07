@@ -1,14 +1,18 @@
-package timus.task_1293;
+package timus.task_2012;
+
 import java.io.PrintWriter;
 import java.util.Scanner;
-public class test {
+
+public class Task {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
-        int N = scanner.nextInt();
-        int A = scanner.nextInt();
-        int B = scanner.nextInt();
-        int result = (N * (A*B)) * 2;
+
+        int numberOfTasks = scanner.nextInt();
+        int difference = 12 - numberOfTasks;
+        int time = difference * 45;
+        String result = time <= 240 ? "YES" : "NO";
+
         out.println(result);
         out.flush();
     }
