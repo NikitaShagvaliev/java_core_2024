@@ -1,0 +1,28 @@
+{
+  "Songs": [
+    {
+      "Title": "Bohemian Rhapsody",
+      "Artist": "Queen",
+      "Album": "A Night at the Opera",
+      "Year": 1975,
+      "Genre": "Rock",
+      "Duration": "5:55"
+    },
+    {
+      "Title": "Shape of You",
+      "Artist": "Ed Sheeran",
+      "Album": "Divide",
+      "Year": 2017,
+      "Genre": "Pop",
+      "Duration": "3:53"
+    },
+    {
+      "Title": "Imagine",
+      "Artist": "John Lennon",
+      "Album": "Imagine",
+      "Year": 1971,
+      "Genre": "Rock",
+      "Duration": "3:01"
+    }
+  ]
+}

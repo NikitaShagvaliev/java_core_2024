@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Songs>
+    <Song>
+        <Title>Bohemian Rhapsody</Title>
+        <Artist>Queen</Artist>
+        <Album>A Night at the Opera</Album>
+        <Year>1975</Year>
+        <Genre>Rock</Genre>
+        <Duration>5:55</Duration>
+    </Song>
+    <Song>
+        <Title>Shape of You</Title>
+        <Artist>Ed Sheeran</Artist>
+        <Album>Divide</Album>
+        <Year>2017</Year>
+        <Genre>Pop</Genre>
+        <Duration>3:53</Duration>
+    </Song>
+    <Song>
+        <Title>Imagine</Title>
+        <Artist>John Lennon</Artist>
+        <Album>Imagine</Album>
+        <Year>1971</Year>
+        <Genre>Rock</Genre>
+        <Duration>3:01</Duration>
+    </Song>
+</Songs>
